@@ -3,10 +3,6 @@
 <h3 align="center">A passionate Data Analyst who is proficient in transforming data into actionable insights</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-- 🔭 I’m currently working on **SQL**
-
-- 🌱 I’m currently learning **Sentiment Analysis, RFM Analysis, EDA and Machine Learning Prediction Models**
-
 - 📫 How to reach me **terryning.2001@gmail.com**
 
 - ⚡ Fun fact **I like to spend my spare time doing activities outdoors such as hiking, cycling and rock climbing**
